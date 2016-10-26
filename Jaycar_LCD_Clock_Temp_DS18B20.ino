@@ -2,6 +2,8 @@
 // Code based around demo in https://github.com/adafruit/RTClib/archive/master.zip
 // pushbutton code from https://arduino-info.wikispaces.com/LCD-Pushbuttons
 // Modified by Tim Blythman Decmeber 2015
+//
+// Modified by Anthony Clarke October 2016 with Temperature 
 
 #include <Wire.h>
 #include "RTClib.h"
