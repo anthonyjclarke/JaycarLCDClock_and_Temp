@@ -5,8 +5,11 @@ Enhancement of the Clock to display temperature
 Credits to :-
 
 Date and time functions using a DS1307 RTC connected via I2C and Wire lib
+
 Code based around demo in https://github.com/adafruit/RTClib/archive/master.zip
-pushbutton code from https://arduino-info.wikispaces.com/LCD-Pushbuttons
+
+Pushbutton code from https://arduino-info.wikispaces.com/LCD-Pushbuttons
+
 Modified by Tim Blythman Decmeber 2015
 
 Jaycar link : https://www.jaycar.com.au/diy-arduino-clock-uno
